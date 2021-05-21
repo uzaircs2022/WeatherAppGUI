@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ImageSize">30dp</dimen>
+    <dimen name="TextSize">30dp</dimen>
+    <dimen name="scrolling_text_size">30dp</dimen>
+    <dimen name="scrolling_image_size">60dp</dimen>
+</resources>
